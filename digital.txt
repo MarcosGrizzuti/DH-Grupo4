@@ -1,2 +1,5 @@
 La primera palabra de DigitalHouse
 nombre plataforma
+
+Digital House es una organización educativa (EdTech) que transforma la vida de las personas desarrollando habilidades digitales que impactan a la sociedad.
+Con este objetivo, ofrece formación totalmente a distancia bajo una metodología innovadora con especial foco en la práctica.
